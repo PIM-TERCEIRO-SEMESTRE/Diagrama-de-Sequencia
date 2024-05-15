@@ -1,6 +1,6 @@
 # Diagrama-de-Sequencia (Cadastro de Produto)
 
-1-O Funcionário requisita ao sistema o cadastro de um novo produto;
+1-O Funcionário requisita ao sistema o cadastro de um novo produto/n
 2-O Funcionário fornece os dados do produto;
 3-O sistema armazena os dados do produto no banco de dados;
 4-O Produto foi Cadastrado;
