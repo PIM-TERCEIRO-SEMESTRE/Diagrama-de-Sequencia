@@ -1,7 +1,7 @@
 # Diagramas UML
 ## Diagrama de casos de uso
 <div align="center">
-    <img src="https://github.com/PIM-TERCEIRO-SEMESTRE/Diagramas-UML/blob/main/DiagramaCasoDeUsoGeral.png" />
+    <img src="" />
     <div height="2"></div>
 </div>
 
